@@ -1,0 +1,21 @@
+# Glorify
+
+> Glorify is a Christian devotional and worship mobile application for building a daily faith and wellbeing practice — daily devotionals, Bible passages, guided meditations, prayer, sleep stories, worship music, and audio courses, plus a community and the Glorify Ring wearable. Reported 20M+ downloads and a 4.9-star average over 1M+ reviews. Backed by Andreessen Horowitz (a16z). Glorify is a consumer application and does not currently publish a public developer API, SDK, or developer portal.
+
+## Company
+- [Website](https://www.glorify.global/): Product homepage.
+- [Blog](https://www.glorify.global/blog): Company and product blog.
+- [Press](https://www.glorify.global/press): Press and media.
+- [Careers](https://www.glorify.global/app/careers): Open roles.
+
+## Support
+- [Contact Support](https://www.glorify.global/support/contact): Support request form.
+- [Help Center](https://glorify-app.zendesk.com/hc/en-gb): Zendesk knowledge base.
+
+## Legal
+- [Terms of Service](https://www.glorify.global/legal/terms-of-service)
+- [Privacy Policy](https://www.glorify.global/legal/privacy-policy)
+- [Cookie Policy](https://www.glorify.global/legal/cookie-policy)
+
+## Notes
+- No public developer API, OpenAPI, SDK, well-known discovery, security.txt, or MCP server was found as of 2026-07-19.

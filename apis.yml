@@ -1,7 +1,28 @@
 aid: glorify
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/glorify.png
 name: Glorify
-description: Glorify is a company surfaced as a portfolio company of a16z and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Glorify is a Christian devotional and worship mobile application that helps
+  people build a daily faith and wellbeing practice. The app delivers daily
+  devotionals, Bible passages and inspirational quotes alongside guided
+  meditations, prayer, sleep stories, worship music playlists, and audio courses
+  led by theologians and authors, plus a community for connecting with other
+  believers. Glorify also offers a physical wearable, the Glorify Ring. The
+  company reports more than 20 million downloads and a 4.9-star average across
+  over one million reviews, and is backed by Andreessen Horowitz (a16z). Glorify
+  is a consumer application and does not currently publish a public developer
+  API, SDK, or developer portal.
 url: https://raw.githubusercontent.com/api-evangelist/glorify/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +32,41 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Religion
+- Faith
+- Devotional
+- Wellness
+- Meditation
+- Christian
+- Consumer App
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: DomainSecurity
+  url: security/glorify-domain-security.yml
+- type: LLMsTxt
+  url: llms/glorify-llms.txt
+- type: Website
+  url: https://www.glorify.global/
+- type: Blog
+  url: https://www.glorify.global/blog
+- type: Support
+  url: https://www.glorify.global/support/contact
+- type: HelpCenter
+  url: https://glorify-app.zendesk.com/hc/en-gb
+- type: TermsOfService
+  url: https://www.glorify.global/legal/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.glorify.global/legal/privacy-policy
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
